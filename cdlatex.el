@@ -1,16 +1,16 @@
 ;;; cdlatex.el --- Fast input methods for LaTeX environments and math  -*- lexical-binding: t; -*-
 ;; Copyright (c) 2010-2022  Free Software Foundation, Inc.
 ;;
-;; Author: Carsten Dominik <carsten.dominik@gmail.com>
+;; Author: Carsten Dominik <carsten.dominik@gmail.com>asdfsadfadf
 ;; Keywords: tex
-;; Version: 4.18d
+;; Version: 4.18dsdfawerwgs
 ;;
-;; This file is not part of GNU Emacs.
+;; This file is not part of GNU Emacs.sdfsafdf
 ;;
 ;; This file is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or
-;; (at your option) any later version.
+;; (at your option) any later version.asdfasdf
 
 ;; cdlatex.el is distributed in the hope that it will be useful,
 ;; but WITHOUT ANY WARRANTY; without even the implied warranty of
