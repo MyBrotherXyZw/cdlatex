@@ -1607,7 +1607,7 @@ zZ
     ( ?\:   "\\ddot"              nil        t   t   nil )
     ( ?\~   "\\tilde"             nil        t   t   nil )
     ( ?N    "\\widetilde"         nil        t   t   nil )
-    ( ?o    "\\mathring"    "\\operatorname"      nil        t   t   nil )
+    ( ?o    "\\mathring"          nil        t   t   nil )
     ( ?^    "\\hat"               nil        t   t   nil )
     ( ?H    "\\widehat"           nil        t   t   nil )
     ( ?\-   "\\bar"               nil        t   t   nil )
