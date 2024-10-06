@@ -1832,6 +1832,14 @@ AUTOLABEL
 nil
 )
 ;;------------------------------------
+( "equation;"
+"\\begin{equation*}
+AUTOLABEL
+?
+\\end{equation*}"
+nil
+)
+;;------------------------------------
 ( "figure"
 "\\begin{figure}[htbp]
 \\centerline{\\includegraphics[]{AUTOFILE}}
@@ -2034,7 +2042,7 @@ AUTOLABEL
 "\\\\AUTOLABEL
 ?")
 ;;------------------------------------
-( "align*"
+( "align;"
 "\\begin{align*}
 ?
 \\end{align*}"
